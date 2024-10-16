@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94767453646'] //ur owner number
-global.ownername = "😎៚ᴍʀͥ.ᴀͣᴍͫɪʏᴀ͢⁸⁵⁴¹⃟✦⃝̮̮〽️ 😈" //ur owner name
-global.ytname = "YT - TechwithAmee" //ur yt chanel name
-global.socialm = "amiyaprogramer@gmail.com" //ur github or insta name
-global.location = "Srilanka , Southern province , Hambantota" //ur location
+global.vcardowner = ['923266168699'] //ur owner number
+global.ownername = "ＡＢ ＺＥＢ" //ur owner name
+global.ytname = "ＡＢ ＺＥＢ" //ur yt chanel name
+global.socialm = "ＡＢ ＺＥＢ" //ur github or insta name
+global.location = "L A Y Y A H" //ur location
 
 //bot bomdy 
-global.owner = ['94767453646']
-global.ownertag = '94767453646' //ur tag number
-global.botname = '🐉 𝙰𝙼𝙸𝚈𝙰 𝙳𝚁𝙰𝙶𝙾𝙽 𝙱𝙾𝚃 🐉' //ur bot name
-global.linkz = "https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ" //ur website to be displayed
+global.owner = ['923266168699']
+global.ownertag = '923266168699' //ur tag number
+global.botname = 'ＡＢ ＺＥＢ' //ur bot name
+global.linkz = "WA.ME/923097103041" //your theme url which will be displayed on whatsapp
+global.websitex = "WA.ME/923097103041" //ur website to be displayed
 global.botscript = 'This whatsapp md bot is testing now. we release this bot immediatly🥰.' //script link
 global.reactmoji = "🇱🇰" //ur menu react emoji
 global.themeemoji = "🐉" //ur theme emoji
-global.packname = "🐉 𝙰𝙼𝙸𝚈𝙰 𝙳𝚁𝙰𝙶𝙾𝙽 𝙼𝙳 🐉" //ur sticker watermark packname
-global.author = "༺៚ᴍʀͥ.ᴀͣᴍͫɪʏᴀッ༒ッʙ͋ᴏ̐̈́ᴛ͋乡࿐" //ur sticker watermark author
+global.packname = "ＡＢ ＺＥＢ" //ur sticker watermark packname
+global.author = "ＡＢ ＺＥＢ" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/botsis.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/botsis.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/botsis.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94767453646'] //ur premium numbers
+global.premium = ['923266168699'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -105,20 +105,20 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'ඔන්න හරි 🔥💯\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    admin: 'ඇඩ්මින්ලට විතරයි මේක පුලුවන් ළමයෝ 🌝\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    botAdmin: 'ඇඩ්මින් දියන්කෝ මුලින් 😒\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    owner: 'Owner ට විතරයි ළමයෝ ඕක පුලුවන් 🙏\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    group: 'group වල විතරයි ඕක😒\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    private: 'inbox විතරයි පුලුවන්🌝\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    bot: 'මේක මට විතරයි පුලුවන්😌👍 ඔයා පාඩුවේ ඉන්න 😒\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    wait: '😘 චුට්ටක් ඉන්න බබා 🥰🙏\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    linkm: 'කෝ 𝚕𝚒𝚗𝚔 එක 😒\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    error: 'Error!!\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.\n\n𝚠𝚊.𝚖𝚎/+94767453646\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
-    banChat: 'The bot was banned in this group, please contact the owner to unban\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ'
+    success: '🌝\n\n🔥ＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ♥️\n\n',
+    admin: '🌝\n\n🔥ＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ♥️\n\n',
+    botAdmin: '🌝\n\n🔥ＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ♥️\n\n',
+    owner: '🌝\n\n🔥ＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ♥️\n\n',
+    group: '🌝\n\n🔥ＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ♥️\n\n',
+    private: '🌝\n\n🔥ＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ♥️\n\n',
+    bot: '🌝\n\n🔥ＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ♥️\n\n',
+    wait: '🌝\n\n🔥ＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ♥️\n\n',
+    linkm: '🌝\n\n🔥ＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ♥️\n\n',
+    error: '🌝\n\n🔥ＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ♥️\n\n',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours\n\n',
+    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.\n\n𝚠𝚊.𝚖𝚎/+923097103041\n\n🔥༺AMIYA༒DRAGON༻🔥\n\n♥️𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙾𝚞𝚛 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕♥️\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ',
+    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate\n\nＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ',
+    banChat: 'The bot was banned in this group, please contact the owner to unban\n\nＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ\n\nＡＢ ＺＥＢ'
 }
     global.limitawal = {
     premium: "Infinity",
